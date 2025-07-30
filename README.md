@@ -2,7 +2,7 @@
 
 A stunning, modern landing page for SaaS, a fictional AI-powered marketing platform. Built with Next.js 15, TypeScript, Tailwind CSS, and Framer Motion.
 
-👉 [View Deployed Project on Netlify](https://your-deployment-url.com)
+👉 [View Deployed Project on Netlify](https://modernsaaspage.netlify.app/)
 
 ## 🚀 Features
 ---
