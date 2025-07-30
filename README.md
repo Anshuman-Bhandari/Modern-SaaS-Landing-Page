@@ -1,6 +1,6 @@
-# ADmyBRAND - SaaS Marketing Landing Page
+# Modern SaaS Marketing Landing Page
 
-A stunning, modern landing page for ADmyBRAND, a fictional AI-powered marketing platform. Built with Next.js 15, TypeScript, Tailwind CSS, and Framer Motion.
+A stunning, modern landing page for SaaS, a fictional AI-powered marketing platform. Built with Next.js 15, TypeScript, Tailwind CSS, and Framer Motion.
 
 ## 🚀 Features
 
