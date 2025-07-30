@@ -2,23 +2,23 @@
 
 A stunning, modern landing page for SaaS, a fictional AI-powered marketing platform. Built with Next.js 15, TypeScript, Tailwind CSS, and Framer Motion.
 
+👉 [View Deployed Project on Netlify](https://your-deployment-url.com)
+
 ## 🚀 Features
+---
 
-### Design & UX
-- **2025 Design Trends**: Glassmorphism, subtle animations, modern typography
-- **Stunning Visual Design**: Professional, premium feel that converts
-- **Perfect Typography**: Clear hierarchy, readable fonts
-- **Smooth Scrolling Animations**: Elements animate in on scroll
-- **Mobile-First Responsive**: Flawless on all devices
+## 📦 Tech Stack
 
-### Sections Included
-- **Hero Section**: Compelling headline, subtext, CTA, animated elements
-- **Features Section**: 6+ features with icons and descriptions
-- **Pricing Cards**: 3 tiers with feature comparisons
-- **Testimonials Carousel**: Customer reviews with photos
-- **FAQ Section**: Collapsible questions
-- **Contact Section**: Form and contact information
-- **Footer**: Links, social media, contact info
+- ⚛️ **Next.js 14+** with App Router
+- ✨ **TypeScript** for type-safe development
+- 🎨 **Tailwind CSS** + **Glassmorphism** UI
+- 🎞 **Framer Motion** for advanced animations
+- 🧩 8+ Reusable Components (Button, Card, Modal, etc.)
+- ✅ **Form Validation** with custom hooks
+- 📱 Fully **Responsive** & **Mobile-First**
+- ⚡ Optimized performance using lazy loading, code-splitting, and Next.js `<Image>`
+
+---
 
 ### Technical Features
 - **Component-Based Architecture**: Reusable UI components
@@ -29,14 +29,6 @@ A stunning, modern landing page for SaaS, a fictional AI-powered marketing platf
 - **Accessibility**: WCAG compliant
 - **SEO Optimized**: Meta tags, structured data
 
-## 🛠️ Tech Stack
-
-- **Framework**: Next.js 15 with App Router
-- **Language**: TypeScript
-- **Styling**: Tailwind CSS 4
-- **Animations**: Framer Motion
-- **Icons**: Lucide React
-- **Fonts**: Geist (Google Fonts)
 
 ## 📁 Project Structure
 
@@ -180,8 +172,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Support
 
-For support, email hello@admybrand.com or create an issue in this repository.
+For support, email anshuman.23.2004.com or create an issue in this repository.
 
 ---
 
-Built with ❤️ by the ADmyBRAND team
+Built with ❤️
